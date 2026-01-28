@@ -1,0 +1,7 @@
+{
+  "name": "Menstrual Aid - Educational Video App",
+  "description": "A respectful, educational tool for adolescent girls and women in rural settings to understand menstrual health and self-care through animated scenes and voiceover.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
